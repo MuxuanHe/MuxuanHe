@@ -213,7 +213,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	section, article {
 		&.special {
-			text-align: justify;
+			text-align: left;
 		}
 	}
 
