@@ -323,7 +323,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			line-height: _size(element-height);
 			position: absolute;
 			right: 0;
-			text-align: center;
+			text-align: left;
 			top: 0;
 			width: _size(element-height);
 		}
