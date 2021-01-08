@@ -7,7 +7,7 @@ description: |
   Ph.D. Candidate in Linguistics <br />
   University of Southern California
 owner: Yifan Yang # or company name
-first_published: 2020 # if migrating another site, the year of your first publish
+first_published: # if migrating another site, the year of your first publish
 email: yifanyang08@outlook.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yifanyang08.github.io" # the base hostname & protocol for your site
